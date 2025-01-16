@@ -1,8 +1,8 @@
 # PROJET AUBE TERRE
 
-### Création d'un site web pour promouvoir les services proprosés par une ferme équestre se situant à Burdinne (4210).
+### Projet en cours de création, site web pour promouvoir les services proprosés par une ferme équestre.
 
-##### Plusieurs pages sont en cours de développement :
+##### Principales pages :
 * Accueil,
 * Informations sur les coproscopies,
 * Galerie photos,
@@ -11,4 +11,7 @@
 
 ##### A développer :
 * Référencement,
-* Formulaire d'insciption pour le parcours Oaka.
+* Formulaire d'insciption pour le parcours Oaka,
+* Qualité des images,
+* Responsive,
+A fignoler.
