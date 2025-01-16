@@ -1,0 +1,79 @@
+* {
+    font-family: "Raleway", sans-serif;
+    margin: 0%;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+@media (width:100%) {
+    * {
+        width: auto;
+    }
+}
+.image {
+  width: 100%;
+  object-fit: cover;
+}
+.responsive {
+  height: auto;
+  margin: 0%;
+}
+
+/* header */
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100px;
+    background-color: #67755B;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+/* main */
+
+card {
+    width: 100%;
+    transition: 0.3s;
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #67755B;
+}
+.menu-list {
+  color:white;
+  background-color: #67755B;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.menu-list:hover {
+  background-color: #ffffff;
+  border: 2px solid white;
+  color:#67755B;
+  text-align: center;
+  font-size: 18px;
+}
+hr {
+  color:white;
+}
+
+.galerie-oaka {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 50px;
+    height: 500px;
+}
+.oaka-banner {
+    height: 250px;
+    width: 420px;
+}

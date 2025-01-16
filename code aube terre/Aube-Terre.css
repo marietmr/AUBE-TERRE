@@ -1,0 +1,192 @@
+
+* {
+    font-family: "Raleway", sans-serif;
+    margin: 0%;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+@media (width:100%) {
+    * {
+        width: auto;
+    }
+}
+.image {
+  width: 100%;
+  object-fit: cover;
+}
+.responsive {
+  height: auto;
+  margin: 0%;
+}
+
+/* header */
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100px;
+    background-color: #67755B;
+}
+.logo {
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
+
+/* main */
+
+card {
+    transition: 0.3s;
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #67755B;
+}
+.menu-list {
+  color:white;
+  background-color: #67755B;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+.menu-list:hover {
+  background-color: #ffffff;
+  border: 2px solid white;
+  color:#67755B;
+  text-align: center;
+  font-size: 18px;
+}
+hr {
+  color:white;
+} 
+
+
+.banner-home, .home {
+  height: 348px;
+  background-image: url(assets-aube-terre/moisson.png);
+  background-attachment: scroll;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.container-text-home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 301.5px;
+}
+.text-home {
+  margin-top: 50px;
+  width: 800px;
+}
+
+.oaka {
+  display: flex;
+  justify-content: center;
+  height: 348px;
+  background-image: url(assets-aube-terre/oaka\ banner.png);
+  background-attachment: scroll;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.oaka:hover {
+  background-color: white;
+  border: 2px solid white;
+  box-shadow: 10px 10px 10px white;
+}
+
+
+
+.contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.contact:hover {
+  background-color: white;
+  border: 2px solid white;
+  box-shadow: 10px 5px 5px white;
+  text-align: center;
+  font-size: 18px;
+}
+
+.banner-stan, .stan {
+  height: 300px;
+  background-image: url(assets-aube-terre/stan.png);
+  background-attachment: fixed;
+  background-size: 100%;
+  padding: 0%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.stan {
+  height: 500px;
+}
+a {
+    color: #67755B;
+    text-decoration: none;
+}
+.galerie {
+  display: flex;
+  justify-content: center;
+}
+.galerie:hover {
+  background-color: white;
+  border: 2px solid white;
+  box-shadow: 10px 5px 5px white;
+  text-align: center;
+  font-size: 18px;
+}
+
+.banner-copro-patures {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.copro, .patures {
+  height: 550px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+
+}
+.copro:hover {
+  margin-right: 10px;
+  background-color: #ffffff;
+  border: 2px solid white;
+}
+.patures:hover {
+  margin-left: 10px;
+  background-color: #ffffff;
+  border: 2px solid white;
+}
+
+/* footer */
+
+footer {
+  background-color: #67755B;
+  display: flex;
+  justify-content: center;
+}
+.button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button {
+  background-color: #67755B;
+  border:#67755B;
+  color: #ffffff;
+  font-size: medium;
+  padding: 15px;
+}
