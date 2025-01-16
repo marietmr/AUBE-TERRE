@@ -8,3 +8,7 @@ Plusieurs pages sont en cours de développement :
 * Galerie photos,
 * Informations sur le parcours Oaka,
 * Informations sur leur système de paturage.
+
+#### A développer :
+* Référencement,
+* Formulaire d'insciption pour le parcours Oaka.
