@@ -1,6 +1,7 @@
 # PROJET AUBE TERRE
 
 ### Projet en cours de création, site web pour promouvoir les services proprosés par une ferme équestre.
+## En chantier !!
 
 ##### Principales pages :
 * Accueil,
