@@ -19,4 +19,4 @@
 
 A fignoler.
 
-https://www.figma.com/proto/q6FCdOQSWJeUmPGG8Sd2Mg/Aube-Terre?node-id=0-1&t=jWfhLmKAbmeY2ZPp-1
+https://www.figma.com/proto/q6FCdOQSWJeUmPGG8Sd2Mg/Aube-Terre?node-id=14-84&t=jWfhLmKAbmeY2ZPp-1
