@@ -2,6 +2,7 @@
 
 ## En chantier 🚧 Site web pour promouvoir les services proprosés par une ferme équestre. 
 
+Code bientôt disponible
 
 ### Front-end :
 #### Structure du site :
