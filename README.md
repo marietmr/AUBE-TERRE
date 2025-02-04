@@ -1,10 +1,9 @@
-# PROJET AUBE TERRE 🌳
+# 🌳PROJET AUBE TERRE
 
-## En chantier 🚧 Site web pour promouvoir les services proprosés par une ferme équestre. 
+## 🚧 En chantier !! Site web pour promouvoir les services proprosés par une ferme équestre. 
 
-Code bientôt disponible
-
-### Front-end :
+----
+### ✨Front-end :
 #### Structure du site :
 * Accueil, 
 
@@ -16,7 +15,8 @@ Oaka serait subdivisé en deux avec une partie informative comprenant la présen
 
 Dans la partie Articles, on pourra retrouver de la documentation concernant deux grands sujets (vermifugation & pâturage).
 
-### Back-end :  
+----
+### 🫧Back-end :  
 * Base de données,
 * Création d'un formulaire d'insciption (+ calendrier/agenda ?),
 * Voir comment les propriétaires pourront accéder aux inscriptions (par email ? Login admin ?)
